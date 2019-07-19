@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationsAndCRUD in MVC with ADO.Net", "ValidationsAndCRUD in MVC with ADO.Net\ValidationsAndCRUD in MVC with ADO.Net.csproj", "{0DCDA124-DAF3-44D8-801F-4B8365CDBC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCDA124-DAF3-44D8-801F-4B8365CDBC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCDA124-DAF3-44D8-801F-4B8365CDBC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCDA124-DAF3-44D8-801F-4B8365CDBC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCDA124-DAF3-44D8-801F-4B8365CDBC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E7402C-98AF-407D-A351-71C72EE255F5}
+	EndGlobalSection
+EndGlobal
